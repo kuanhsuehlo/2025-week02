@@ -1,0 +1,17 @@
+.category .active {
+    color: var(--primary-400);
+}
+
+.page-item .btn {
+    padding: 8px 15px;
+    border-radius: 0;
+    font-weight: 400;
+}
+
+.page-item .active {
+    font-weight: 500;
+}
+
+.page-item .active:hover {
+    background-color: var(--primary-300);
+}
